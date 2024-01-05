@@ -1,25 +1,23 @@
 # 3D-tiles-layer
 
-Resources related to 3D Tiles support in ArcGIS.
+[3D Tiles](https://www.ogc.org/standard/3dtiles/) similar to [i3s](https://www.ogc.org/standard/i3s/) is an OGC standard representing large amounts of geographica data. This repo provides tooling related to 3D Tiles.
 
 ## Features
 
-* TODO
-* TODO
+* Executable to create 3D tiles package (*.3tz) from a given 3D tiles dataset
 
 ## Instructions
 
-1. TODO
-2. TODO
+1. Clone the repo.
+2. Run the executable ".\3tz_packager\3tz_packager.exe".
 
 ## Requirements
 
-* TODO
-* TODO
+* None
 
 ## Resources
 
-* [OGC 3D Tiles Specification](https://www.ogc.org/standard/3dtiles/)
+* [3tz_packager](./3tz_packager/3tz_packager_ReadMe.md)
 
 ## Issues
 
@@ -47,5 +45,5 @@ limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://github.com/ArcGIS/3D-tiles-layer/license.txt) file.
 
-[](Esri Tags: TODO)
-[](Esri Language: TODO)
+[](Esri Tags: ArcGIS support for 3D Tiles)
+[](Esri Language: JavaScript)
