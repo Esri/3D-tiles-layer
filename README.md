@@ -44,6 +44,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://github.com/ArcGIS/3D-tiles-layer/license.txt) file.
-
-[](Esri Tags: ArcGIS support for 3D Tiles)
-[](Esri Language: JavaScript)
