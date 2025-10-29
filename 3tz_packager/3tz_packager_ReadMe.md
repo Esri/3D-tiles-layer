@@ -8,11 +8,13 @@
 
 ## Introduction <a name="Introduction"></a>
 
-The 3tz_packager is a command line tool to package 3D tiles datasets into a 3tz file. A 3tz file can be used directly in ArcGIS Pro 3.2 or higher. You can upload a 3tz file to ArcGIS Online or ArcGIS Enterprise 11.3 or higher and publish a 3D tiles web layer.
+The 3tz_packager is a command line tool to package 3D tiles datasets into a 3tz file. A 3tz file can be used directly in ArcGIS Pro 3.2 or higher. You can upload a 3tz file to ArcGIS Online or ArcGIS Enterprise 11.3 or higher and publish a mesh layer, for example.
 
-You can package any 3D tiles dataset. ArcGIS organizes geospatial information in layers.  Only data representing integrated mesh or 3D objects can be visualized as 3D tiles layer in ArcGIS.
+You can package any 3D tiles dataset. ArcGIS organizes geospatial information in layers.  Only data representing mesh or 3D objects can be visualized in ArcGIS.
 
 # Running the executable <a name="Execute"></a>
+
+To run the executable clone the repo.
 
 #### Open Command Prompt
 
@@ -52,3 +54,4 @@ You can package any 3D tiles dataset. ArcGIS organizes geospatial information in
 
 ```3tz_packager.exe  -v ./3d_tiles myCity.3tz```<br>
 This command will output any message during packing.  The output file will be in the working directory.
+
