@@ -28,22 +28,21 @@ To run the executable clone the repo.
 #### Run the executable
 
 1. Specify the .exe path
+   - Drag and drop the .exe into the command prompt window (absolute path)
+     `C:\Users\user\Desktop>C:\Users\user\Desktop\3tz_packager.exe`<br>
+     OR
 
-- Drag and drop the .exe into the command prompt window (absolute path)
-  `C:\Users\user\Desktop>C:\Users\user\Desktop\3tz_packager.exe`<br>
-  OR
-
-- _cd_ into the directory that contains the .exe (relative path)
-  - Use: 3tz_packager  
-    `C:\Users\user\Desktop\3tz_packager`
+   - _cd_ into the directory that contains the .exe (relative path)
+     - Use: 3tz_packager  
+       `C:\Users\user\Desktop\3tz_packager`
 
 2. Specify the 3D tiles folder path
    - Set the name of the folder location containing the 3D tiles dataset and the name of the 3tz file.
 
-`C:\Users\user\Desktop\3tz_packager C:\temp\3d_tiles c:\temp\MyPackage.3tz`
+     `C:\Users\user\Desktop\3tz_packager C:\temp\3d_tiles c:\temp\MyPackage.3tz`
 
-This is the minumum required to use the 3tz*packager tool.<br>
-\_Note:* Existing 3tz file will be overwritten.
+This is the minumum required to use the 3tz packager tool.<br>
+_Note:_ Existing 3tz file will be overwritten.
 
 ## Options
 

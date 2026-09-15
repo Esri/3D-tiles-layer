@@ -9,8 +9,8 @@
 
 ## Introduction
 
-The [LCC](https://github.com/xgrids/LCCWhitepaper) and [LCC2](https://github.com/xgrids/LCC2Whitepaper) data organization format are developed by [XGRID](https://github.com/xgrids) to visualize Gaussian splatting.
-XGRID's high-precision real-time scanners are adopted in diverse industries allowing users to rapidly scan outdoor and indoor areas to generate Gaussian splat datasets.
+The [LCC](https://github.com/xgrids/LCCWhitepaper) and [LCC2](https://github.com/xgrids/LCC2Whitepaper) data organization format are developed by [XGRIDS](https://github.com/xgrids) to visualize Gaussian splatting.
+XGRIDS high-precision real-time scanners are adopted in diverse industries allowing users to rapidly scan outdoor and indoor areas to generate Gaussian splat datasets.
 
 ## LCC format
 
