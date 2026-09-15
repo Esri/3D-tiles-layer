@@ -4,6 +4,7 @@
 
 ## Features
 
+- Reading [LCC and LCC2](./LCCandLCC2/LCCandLCC2_ReadMe.md) to create 3D tiles dataset
 - [ESRI_CRS extension](./ESRI_CRS/Esri_crs_extension.md) to specify coordinate reference system.
 - Executable to create [3tz_packager (\*.3tz)](./3tz_packager/3tz_packager_ReadMe.md) from a given 3D tiles dataset.
 
